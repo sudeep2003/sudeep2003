@@ -1,4 +1,6 @@
 # Hello. I am Sudeep Karmakar👋
+<img alt="Coder GIF" width="full" src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<br>
 <img align="right" src="https://i.ibb.co/vwCfpB2/imgbin-cristiano-ronaldo-portugal-national-football-team-real-madrid-c-f-la-liga-android-png.png" alt="imgbin-cristiano-ronaldo-portugal-national-football-team-real-madrid-c-f-la-liga-android-png" border="0" height="300" />
 
 # 💫 About Me:
