@@ -1,6 +1,5 @@
 # Hello. I am Sudeep Karmakar👋
 <img alt="Coder GIF" width="full" src="./assets/programmer.gif" />
-<br>
 <img align="right" src="https://i.ibb.co/vwCfpB2/imgbin-cristiano-ronaldo-portugal-national-football-team-real-madrid-c-f-la-liga-android-png.png" alt="imgbin-cristiano-ronaldo-portugal-national-football-team-real-madrid-c-f-la-liga-android-png" border="0" height="300" />
 
 # 💫 About Me:
@@ -25,5 +24,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudeep2003&icon=7&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
