@@ -3,7 +3,13 @@
 <img align="right" src="https://i.ibb.co/vwCfpB2/imgbin-cristiano-ronaldo-portugal-national-football-team-real-madrid-c-f-la-liga-android-png.png" alt="imgbin-cristiano-ronaldo-portugal-national-football-team-real-madrid-c-f-la-liga-android-png" border="0" height="300" />
 
 # 💫 About Me:
-- 👨🏽‍💻 I’m currently free now;<br>- 🌱 I’m currently learning Web3 and cloud computing; <br>- 👯 I am looking for a project to work on🤝;<br>- 🤔 I’m looking for help with Data Structures and Algorithms 😭;<br>- 💬 Ask me about anything, I am happy to help;<br>- ⚡️ Fun-Fact: I looking for a team for my startup idea😋;<br>- 📫 How to reach me: sudeepkarmakar02@gmail.com;
+- 👨🏽‍💻 I’m currently working on enhancing my web development skills, focusing on PHP and WordPress;  
+- 🌱 I’m actively learning back-end development, including PHP, MySQL, and WordPress;  
+- 👯 I’m open to collaborating on WordPress projects and expanding my knowledge in this area;  
+- 🤔 I’m looking for guidance on advanced PHP development and WordPress best practices;  
+- 💬 Feel free to ask me about front-end development, I’d be happy to help;  
+- ⚡️ Fun Fact: I’m passionate about building responsive and interactive web applications;  
+- 📫 How to reach me: sudeepkarmakar02@gmail.com;
 
 
 ## 🌐 Socials:
