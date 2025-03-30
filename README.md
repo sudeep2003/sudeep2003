@@ -9,7 +9,7 @@
 - 🤔 I’m looking for guidance on advanced PHP development and WordPress best practices;  
 - 💬 Feel free to ask me about front-end development, I’d be happy to help;  
 - ⚡️ Fun Fact: I’m passionate about building responsive and interactive web applications;  
-- 📫 How to reach me: sudeepkarmakar02@gmail.com;
+- 📫 How to reach me: sudeepkarmakar02@gmail.com
 
 
 ## 🌐 Socials:
