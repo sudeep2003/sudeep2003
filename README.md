@@ -16,7 +16,7 @@
 - 👨‍💻 I’m open to collaborating on Python projects, especially ones focused on automation, web development, or open-source tools.
 - 💬 Ask me about Python, scripting, or how to get started with automation — I’d love to help!
 - 📫 How to reach me: sudeepkarmakar02@gmail.com
-- ⚡ Fun Fact: My favorite debugging method? print() statements 😄
+- ⚡ Fun Fact: My favorite debugging method? `print()` statements 😄
 
 
 ## 🌐 Socials:
