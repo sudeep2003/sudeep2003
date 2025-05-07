@@ -15,7 +15,7 @@
 - 🌱 Learning more about Django, Flask, FastAPI, and Python libraries like Pandas, NumPy, and BeautifulSoup.
 - 👨‍💻 I’m open to collaborating on Python projects, especially ones focused on automation, web development, or open-source tools.
 - 💬 Ask me about Python, scripting, or how to get started with automation — I’d love to help!
-- 📫 How to reach me: sudeepkarmakar02@gmail.com
+- 📫 How to reach me: sudipkr47@gmail.com and discord [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/demon.mystery033) 
 - ⚡ Fun Fact: My favorite debugging method? `print()` statements 😄
 
 
