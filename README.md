@@ -32,7 +32,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂 Random Dev Meme
-![Random Meme](https://randommeme-five.vercel.app/)
+![Meme](https://i.redd.it/a0v87gwzoge61.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudeep2003&icon=7&color=12)](https://visitcount.itsvg.in)
