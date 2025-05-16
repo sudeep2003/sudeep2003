@@ -33,4 +33,4 @@
 ### 😂 Random Dev Meme
 ![Meme](https://i.redd.it/a0v87gwzoge61.jpg)
 ---
-[![](https://visitcount.itsvg.in/api?id=sudeep2003&icon=7&color=12)](https://visitcount.itsvg.in)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sudeep2003&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)
